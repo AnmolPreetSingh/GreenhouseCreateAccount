@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Catalogproject]">
+  <parameter name="BrowserType" value="Chrome"/>
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="org.testng.reporters.FailedReporter"/>
+  </listeners>
+  <test name="testngTest(failed)">
+    <classes>
+      <class name="tests.createAcc">
+        <methods>
+          <include name="teardown"/>
+          <include name="Setup"/>
+          <include name="maintest"/>
+        </methods>
+      </class> <!-- tests.createAcc -->
+    </classes>
+  </test> <!-- testngTest(failed) -->
+</suite> <!-- Failed suite [Catalogproject] -->

@@ -1,0 +1,77 @@
+[main] 23:49:32,435 INFO  [common.common1] opening browser
+[main] 23:49:59,915 INFO  [common.common1] opened greenhouse
+[main] 23:49:59,915 INFO  [tests.createAcc] first hurdle
+[main] 23:54:59,486 INFO  [common.common1] opening browser
+[main] 23:55:24,965 INFO  [common.common1] opened greenhouse
+[main] 23:55:24,965 INFO  [tests.createAcc] first hurdle
+[main] 00:00:58,125 INFO  [common.common1] opening browser
+[main] 00:01:34,425 INFO  [common.common1] opening browser
+[main] 00:02:46,179 INFO  [common.common1] opening browser
+[main] 00:05:20,172 INFO  [common.common1] opening browser
+[main] 00:05:31,087 INFO  [common.common1] opened greenhouse
+[main] 00:05:31,087 INFO  [tests.createAcc] first hurdle
+[main] 18:05:35,442 INFO  [common.common1] opening browser
+[main] 18:05:39,431 INFO  [common.common1] opened greenhouse
+[main] 18:05:39,431 INFO  [tests.createAcc] first hurdle
+[main] 18:07:33,196 INFO  [common.common1] opening browser
+[main] 18:07:36,438 INFO  [common.common1] opened greenhouse
+[main] 18:07:36,438 INFO  [tests.createAcc] first hurdle
+[main] 18:08:34,899 INFO  [common.common1] opening browser
+[main] 18:08:38,166 INFO  [common.common1] opened greenhouse
+[main] 18:08:38,166 INFO  [tests.createAcc] first hurdle
+[main] 18:09:53,853 INFO  [common.common1] opening browser
+[main] 18:09:57,238 INFO  [common.common1] opened greenhouse
+[main] 18:09:57,238 INFO  [tests.createAcc] first hurdle
+[main] 18:14:49,758 INFO  [common.common1] opening browser
+[main] 18:14:54,043 INFO  [common.common1] opened greenhouse
+[main] 18:14:54,044 INFO  [tests.createAcc] first hurdle
+[main] 19:04:12,459 INFO  [common.common1] opening browser
+[main] 19:04:15,747 INFO  [common.common1] opened greenhouse
+[main] 19:04:15,747 INFO  [tests.createAcc] first hurdle
+[main] 19:08:05,800 INFO  [common.common1] opening browser
+[main] 19:08:10,762 INFO  [common.common1] opened greenhouse
+[main] 19:08:10,762 INFO  [tests.createAcc] first hurdle
+[main] 19:43:47,913 INFO  [common.common1] opening browser
+[main] 19:43:51,949 INFO  [common.common1] opened greenhouse
+[main] 19:43:51,949 INFO  [tests.createAcc] first hurdle
+[main] 19:44:38,305 INFO  [common.common1] opening browser
+[main] 19:44:43,166 INFO  [common.common1] opened greenhouse
+[main] 19:44:43,166 INFO  [tests.createAcc] first hurdle
+[main] 19:45:23,739 INFO  [common.common1] opening browser
+[main] 19:45:27,110 INFO  [common.common1] opened greenhouse
+[main] 19:45:27,110 INFO  [tests.createAcc] first hurdle
+[main] 19:47:55,994 INFO  [common.common1] opening browser
+[main] 19:47:59,508 INFO  [common.common1] opened greenhouse
+[main] 19:47:59,508 INFO  [tests.createAcc] first hurdle
+[main] 19:55:25,960 INFO  [common.common1] opening browser
+[main] 19:55:29,837 INFO  [common.common1] opened greenhouse
+[main] 19:55:29,837 INFO  [tests.createAcc] first hurdle
+[main] 19:56:57,487 INFO  [common.common1] opening browser
+[main] 19:57:01,389 INFO  [common.common1] opened greenhouse
+[main] 19:57:01,389 INFO  [tests.createAcc] first hurdle
+[main] 20:02:17,350 INFO  [common.common1] opening browser
+[main] 20:02:20,749 INFO  [common.common1] opened greenhouse
+[main] 20:02:20,749 INFO  [tests.createAcc] first hurdle
+[main] 20:04:46,097 INFO  [common.common1] opening browser
+[main] 20:04:49,528 INFO  [common.common1] opened greenhouse
+[main] 20:04:49,528 INFO  [tests.createAcc] first hurdle
+[main] 20:06:47,929 INFO  [common.common1] opening browser
+[main] 20:06:51,985 INFO  [common.common1] opened greenhouse
+[main] 20:06:51,985 INFO  [tests.createAcc] first hurdle
+[main] 20:09:52,819 INFO  [common.common1] opening browser
+[main] 20:09:56,759 INFO  [common.common1] opened greenhouse
+[main] 20:09:56,763 INFO  [tests.createAcc] first hurdle
+[main] 20:09:57,669 INFO  [common.common1] [[ChromeDriver: chrome on XP (5e132bc2f4a3bc81dfcdea3dee1813ab)] -> xpath: //*[@id='nav']/ul/li[2]/a]trying to click
+[main] 20:09:57,953 INFO  [common.common1] Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='nav']/ul/li[2]/a'clicked
+[main] 20:09:58,076 INFO  [common.common1] [[ChromeDriver: chrome on XP (5e132bc2f4a3bc81dfcdea3dee1813ab)] -> xpath: //*[@id='firstName']]entered 
+[main] 20:09:58,160 INFO  [common.common1] [[ChromeDriver: chrome on XP (5e132bc2f4a3bc81dfcdea3dee1813ab)] -> xpath: //*[@id='lastName']]entered 
+[main] 20:09:58,246 INFO  [common.common1] [[ChromeDriver: chrome on XP (5e132bc2f4a3bc81dfcdea3dee1813ab)] -> xpath: //*[@id='email']]entered 
+[main] 20:09:58,338 INFO  [common.common1] [[ChromeDriver: chrome on XP (5e132bc2f4a3bc81dfcdea3dee1813ab)] -> xpath: //*[@id='confirmEmail']]entered 
+[main] 20:09:58,455 INFO  [common.common1] [[ChromeDriver: chrome on XP (5e132bc2f4a3bc81dfcdea3dee1813ab)] -> xpath: //*[@id='password']]entered 
+[main] 20:09:58,539 INFO  [common.common1] [[ChromeDriver: chrome on XP (5e132bc2f4a3bc81dfcdea3dee1813ab)] -> xpath: //*[@id='month']]entered 
+[main] 20:09:58,617 INFO  [common.common1] [[ChromeDriver: chrome on XP (5e132bc2f4a3bc81dfcdea3dee1813ab)] -> xpath: //*[@id='day']]entered 
+[main] 20:09:58,694 INFO  [common.common1] [[ChromeDriver: chrome on XP (5e132bc2f4a3bc81dfcdea3dee1813ab)] -> xpath: //*[@id='year']]entered 
+[main] 20:09:58,770 INFO  [common.common1] [[ChromeDriver: chrome on XP (5e132bc2f4a3bc81dfcdea3dee1813ab)] -> xpath: //*[@id='gender']]entered 
+[main] 20:09:58,806 INFO  [common.common1] [[ChromeDriver: chrome on XP (5e132bc2f4a3bc81dfcdea3dee1813ab)] -> xpath: //*[@id='signup']/p/button]trying to click
+[main] 20:09:58,973 INFO  [common.common1] [[ChromeDriver: chrome on XP (5e132bc2f4a3bc81dfcdea3dee1813ab)] -> xpath: //*[@id='signup']/p/button]clicked
+[main] 20:09:58,973 INFO  [tests.createAcc] second hurdle

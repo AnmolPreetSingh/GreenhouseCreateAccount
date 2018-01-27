@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Catalogproject" duration-ms="6908" started-at="2018-01-26T04:09:52Z" finished-at="2018-01-26T04:09:59Z">
+    <groups>
+    </groups>
+    <test name="testngTest" duration-ms="6908" started-at="2018-01-26T04:09:52Z" finished-at="2018-01-26T04:09:59Z">
+      <class name="tests.createAcc">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:tests.createAcc@37d31475]" name="Setup" is-config="true" duration-ms="3944" started-at="2018-01-25T20:09:52Z" finished-at="2018-01-25T20:09:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="maintest()[pri:0, instance:tests.createAcc@37d31475]" name="maintest" duration-ms="2210" started-at="2018-01-25T20:09:56Z" finished-at="2018-01-25T20:09:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maintest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.createAcc@37d31475]" name="teardown" is-config="true" duration-ms="734" started-at="2018-01-25T20:09:58Z" finished-at="2018-01-25T20:09:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.createAcc -->
+    </test> <!-- testngTest -->
+  </suite> <!-- Catalogproject -->
+</testng-results>
